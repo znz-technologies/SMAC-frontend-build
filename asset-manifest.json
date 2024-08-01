@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.044a4855.css",
+    "main.js": "/static/js/main.515b29f3.js",
+    "static/js/853.b7e17a88.chunk.js": "/static/js/853.b7e17a88.chunk.js",
+    "static/media/cardImage.png": "/static/media/cardImage.b1a1eb0314e63105e53c.png",
+    "static/media/cuate.png": "/static/media/cuate.9a17868d51e31eea6f7e.png",
+    "static/media/pageNotFound.svg": "/static/media/pageNotFound.7ab90c38d6f24c6671fc6194621d22f2.svg",
+    "index.html": "/index.html",
+    "main.044a4855.css.map": "/static/css/main.044a4855.css.map",
+    "main.515b29f3.js.map": "/static/js/main.515b29f3.js.map",
+    "853.b7e17a88.chunk.js.map": "/static/js/853.b7e17a88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.044a4855.css",
+    "static/js/main.515b29f3.js"
+  ]
+}
